@@ -1,0 +1,10 @@
+{
+    "textarea_xpath": "\/\/*[@class='webcast-chatroom___textarea']",
+    "send_xpath": "\/\/*[@class='webcast-chatroom___send-btn']",
+    "gift_xpath": "\/\/*[@id='player-face']/div[2]/ul/li[5]/img",
+    "confirm_xpath": "\/\/*[@id='player-gift-dialog']/span[1]",
+    "input_url": "https://live.douyin.com/",
+    "cookies": [
+    ""
+    ]
+}
